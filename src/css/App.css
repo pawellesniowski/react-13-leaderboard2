@@ -1,3 +1,6 @@
 body {
   font: Halvetica, sans-serif;
-  color: yellow; }
+  color: black; }
+
+button {
+  margin: 10px; }

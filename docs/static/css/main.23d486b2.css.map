@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/App.css"],"names":[],"mappings":"AAAA,KACE,0BACA,UAAa,CAEf,OACE,WAAa","file":"static/css/main.23d486b2.css","sourcesContent":["body {\n  font: Halvetica, sans-serif;\n  color: black; }\n\nbutton {\n  margin: 10px; }\n\n\n\n// WEBPACK FOOTER //\n// ./src/css/App.css"],"sourceRoot":""}
